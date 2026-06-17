@@ -4,7 +4,7 @@
 
 ## Overview
 
-This Privacy Policy explains how data is handled when you use My Expenses Manager ("the App"). We believe in your right to privacy, especially concerning your personal and financial information. 
+This Privacy Policy explains how data is handled when you use Zolu - Expenses Manager ("the App"). We believe in your right to privacy, especially concerning your personal and financial information. 
 
 Our philosophy is simple: **Your data belongs to you, and it stays on your device.**
 
@@ -22,6 +22,10 @@ Because we do not collect your data:
 ## Analytics and Tracking
 
 The App does not include any third-party tracking software, analytics tools (e.g., Google Analytics, Firebase), or ad networks that silently collect device identifiers, IP addresses, or usage statistics.
+
+## In-App Purchases
+
+To manage Pro upgrades, the App uses a third-party service (RevenueCat) and the official App Store/Google Play billing systems. These services may collect anonymous device identifiers to verify your purchase receipts. However, they do **not** have access to your personal financial data, which remains strictly on your device.
 
 ## Data Security and Backups
 
