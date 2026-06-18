@@ -4,7 +4,7 @@
 
 ## Overview
 
-This Privacy Policy explains how data is handled when you use Zolu - Expenses Manager ("the App"). We believe in your right to privacy, especially concerning your personal and financial information. 
+This Privacy Policy explains how data is handled when you use Expenses - Offline Tracker ("the App"). We believe in your right to privacy, especially concerning your personal and financial information. 
 
 Our philosophy is simple: **Your data belongs to you, and it stays on your device.**
 
